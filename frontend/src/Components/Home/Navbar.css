@@ -1,0 +1,14 @@
+@media (max-width: 1350px) {
+    #optionsDiv {
+        width: 40%;
+    }
+}
+
+@media (max-width: 750px) {
+    #optionsDiv {
+        display: none;
+    }
+    #menuDiv {
+        display: block;
+    }
+}

@@ -1,0 +1,26 @@
+@media (max-width: 1200px) {
+  #mainHead {
+    font-size: 40px;
+  }
+  #subHead {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 750px) {
+  #mainHead {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 500px) {
+  #headDiv {
+    padding: 0 20px;
+  }
+  #mainHead {
+    font-size: 30px;
+  }
+  #subHead {
+    font-size: 14px;
+  }
+}
